@@ -1,0 +1,2 @@
+webpackJsonp([5],{Kjo5:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var a={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{ref:"rank",staticClass:"rank"},[this._v("\n  rank排行榜\n")])},staticRenderFns:[]};var r=t("VU/8")({name:"Rank"},a,!1,function(e){t("MNl3")},"data-v-26b79e48",null);n.default=r.exports},MNl3:function(e,n){}});
+//# sourceMappingURL=5.41a8b7f68a7ade588775.js.map
